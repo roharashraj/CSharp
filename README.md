@@ -1,5 +1,5 @@
 # CSharp
-Created "CSharp" repository to show off my C# Skills.
+Created "CSharp" repository to show off my C# Skills and also Git & GitHub Skills.
 
 1)P1_Hello World
 - Created new "P1_HelloWorld" project in C# using Visual Studio - Done
