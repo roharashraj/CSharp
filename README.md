@@ -1,6 +1,6 @@
-# CSharp
-Created "CSharp" repository to show off my C# Skills and also Git & GitHub Skills.
+# CSharpSamples
 
-1)P1_Hello World
-- Created new "P1_HelloWorld" project in C# using Visual Studio - Done
-- Got a desire output
+Created "CSharpSamples" repository to show off my C# Skills and also Git & GitHub Skills as well. All codes are based on puerly C# i.e Console Application
+
+1) P1_Hello World
+2) More on way...
